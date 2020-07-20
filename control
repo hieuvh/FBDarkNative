@@ -1,0 +1,9 @@
+Package: com.hius.fbdarknative
+Name: FBDarkNative
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Force enable native dark mode in Facebook. Fixed Status Bar.
+Maintainer: hius
+Author: hius
+Section: Tweaks
